@@ -25,7 +25,7 @@ Using the `.extend` function on an `mst` model, you can add your validations in 
 
 ```ts
 import { types } from "mobx-state-tree"
-import { withValidations } from "../src/with-validations"
+import { withValidations } from "mst-validatejs"
 
 export const UserModel = types
   .model("User")
