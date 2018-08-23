@@ -57,8 +57,9 @@ Find more about [validate.js](https://validatejs.org/), it's a pretty great libr
 
 Yes plz!
 
-> Fork it, Clone it, Branch it, Yarn it
->
-> Build it, Test it, Push it, PR it
+```
+Fork it, Clone it, Branch it, Yarn it
+Build it, Test it, Push it, PR it
+```
 
 To run the tests, I like to open two shells `yarn test:compile:watch` and `yarn ava --watch`.
