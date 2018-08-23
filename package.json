@@ -15,7 +15,8 @@
   "typings": "dist/mst-validatejs.d.ts",
   "files": [
     "dist",
-    "LICENSE"
+    "LICENSE",
+    "readme.md"
   ],
   "scripts": {
     "compile": "tsc",
