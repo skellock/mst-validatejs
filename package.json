@@ -1,4 +1,5 @@
 {
+  "version": "0.1.0",
   "name": "mst-validatejs",
   "description": "Brings validation support to mobx-state-tree powered by validate.js.",
   "license": "MIT",
